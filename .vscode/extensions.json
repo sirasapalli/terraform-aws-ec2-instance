@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+    "johnpapa.vscode-peacock",
+    "mhutchie.git-graph",
+    "redhat.vscode-commons",
+    "redhat.vscode-yaml",
+    "TabNine.tabnine-vscode",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "Wattenberger.footsteps",
+    "EditorConfig.EditorConfig",
+    "hashicorp.terraform",
+    "run-at-scale.terraform-doc-snippets",
+    "SteefH.terraform-documentation-links",
+    "tfsec.tfsec"
+  ]
+}
