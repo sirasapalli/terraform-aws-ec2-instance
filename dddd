@@ -1,0 +1,22 @@
+Hi Team,
+ I Sairam form Vernona infra team our Account name  and id:. VPC was provisioned by CoreTech Team. We are going for a security review for our new Application migration we would appreciate your assistance in providing insights regarding VPC . we are seeking information on the following areas:
+Zero Trust Networking:
+    - Have you adopted a zero trust networking model, where trust is not assumed based on location or source IP?
+Ddos
+ - Are DDoS mitigation plans documented and tested?
+Incident Response Plan:
+    - Is there an incident response plan specific to VPC security incidents?
+    - Are there procedures in place to investigate, contain, and recover from security breaches? 
+        Compliance and Regulations:
+         - Does the VPC adhere to relevant compliance requirements, such as GDPR, or industry-specific standards?
+         - Are there processes in place to maintain compliance and respond to regulatory audits?
+Port Scanning and Vulnerability Assessment:
+    - Is there going to be regular port scanning and vulnerability assessments to identify and remediate potential ingress vulnerabilities?
+Intrusion Detection and Prevention:
+    - Do you have intrusion detection and prevention systems in place to monitor and block unauthorized ingress traffic?
+VPN and Direct Connect:
+   - If VPN or AWS Direct Connect is used, how is it secured, and are encryption and authentication measures in place?
+   - Is access to the VPC from on-premises networks controlled?
+
+
+
